@@ -1,0 +1,22 @@
+{
+  "name": "ResolveShortUrl",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Echowxsy/ResolveShortUrl.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Echowxsy/ResolveShortUrl/issues"
+  },
+  "homepage": "https://github.com/Echowxsy/ResolveShortUrl#readme",
+  "dependencies": {
+    "koa": "^2.11.0",
+    "koa2-request": "^1.0.4"
+  }
+}
