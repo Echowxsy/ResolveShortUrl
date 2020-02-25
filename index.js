@@ -18,7 +18,7 @@ app.use(async ctx => {
     });
     ctx.body = response.headers.location;
   } else {
-    ctx.body = 'Hello from koa.js!';
+    ctx.body = 'Usage: https://resolve-short-url.echowxsy.com/?url={short_url}';
   }
 });
 
